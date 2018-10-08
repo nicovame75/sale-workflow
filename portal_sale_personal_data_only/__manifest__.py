@@ -3,6 +3,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
     'name': 'Portal Sale Personal Data Only',
+    'summary': 'Restricts portal users to their own documents only',
     'version': '10.0.1.0.0',
     'category': 'Sale',
     'author': 'Tecnativa,'
